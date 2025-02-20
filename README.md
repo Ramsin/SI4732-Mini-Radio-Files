@@ -16,7 +16,10 @@ This repository includes:
 ## 🔗 Useful Resources (Other useful links)
 - [Ralph Xavier](https://github.com/ralphxavier/SI4735)
 - [PU2CLR SI473X Arduino Library](https://github.com/pu2clr/SI4735)
+- [Volos Projects YouTube Channel] (https://www.youtube.com/@VolosProjects)
+- [OM0ET's YouTube Video] (https://www.youtube.com/watch?v=yCB4Oam5dwI)
 - [Tech Minds YouTube Video](https://www.youtube.com/watch?v=GpEa6MSVy7k)
+
 
 ## 🛠 Contributing
 Feel free to contribute by submitting **pull requests** or opening **issues** if you find bugs or have suggestions for additional resources.
