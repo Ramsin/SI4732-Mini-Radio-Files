@@ -17,6 +17,7 @@ This repository includes:
 - [Volos Projects YouTube Channel](https://www.youtube.com/@VolosProjects)
 - [Ralph Xavier](https://github.com/ralphxavier/SI4735)
 - [PU2CLR SI473X Arduino Library](https://github.com/pu2clr/SI4735)
+- [G8PTN ATS_Mini FW](https://github.com/G8PTN/ATS_MINI?tab=readme-ov-file)
 
 ## 🛠 Contributing
 Feel free to contribute by submitting **pull requests** or opening **issues** if you find bugs or have suggestions for additional resources.
